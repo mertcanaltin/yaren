@@ -1,5 +1,5 @@
 # Yaren
-![alt text](https://i.hizliresim.com/V9Vj6Z.png "title")
+<img alt="Yarn" src="https://i.hizliresim.com/V9Vj6Z.png" width="546">
 
 Foobar is a javascript library for dealing with word pluralization.
 
