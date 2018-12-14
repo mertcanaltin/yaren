@@ -1,5 +1,5 @@
 # Yaren
-[![image](https://i.hizliresim.com/v6E3g6.jpg)](https://i.hizliresim.com/v6E3g6.jpg)
+[![image]](https://i.hizliresim.com/v6E3g6.jpg)
 
 Foobar is a javascript library for dealing with word pluralization.
 
