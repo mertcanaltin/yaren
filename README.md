@@ -1,7 +1,7 @@
 # Yaren
-![yaren](https://i.hizliresim.com/v6E3g6.jpg)
+[![image](https://i.hizliresim.com/v6E3g6.jpg)](https://hizliresim.com/v6E3g6)
 
-Foobar is a Python library for dealing with word pluralization.
+Foobar is a javascript library for dealing with word pluralization.
 
 ## Installation
 
