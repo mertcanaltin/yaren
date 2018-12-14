@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Fast, reliable, and secure dependency management.
+  Hızlı, güvenilir ve güvenli bağımlılık yönetimi.
 </p>
 
 <p align="center">
