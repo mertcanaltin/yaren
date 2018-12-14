@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yarnpkg.com/">
-    <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
+    <img alt="Yaren" src="https://i.hizliresim.com/V9Vj6Z.png" width="546">
   </a>
 </p>
 
