@@ -1,5 +1,5 @@
 # Yaren
-![yaren](https://i.hizliresim.com/v6E3g6.jpg)
+![title](https://i.hizliresim.com/v6E3g6.jpg)
 
 Foobar is a Python library for dealing with word pluralization.
 
