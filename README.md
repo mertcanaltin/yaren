@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://yarnpkg.com/">
-    <img alt="Yaren" src="https://raw.githubusercontent.com/mertcanaltin/yaren/master/Untitled-2.png" width="">
+  <a href="https://yarenpkg.com/">
+    <img alt="Yaren" src="https://raw.githubusercontent.com/mertcanaltin/web-programlama-begin/master/img/yaren.png" width="">
   </a>
 </p>
 
